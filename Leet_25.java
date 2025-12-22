@@ -6,7 +6,6 @@ class Solution {
      ListNode(int val) { this.val = val; }
      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  }
- 
     public ListNode reverseKGroup(ListNode head, int k) {
         ListNode dumy = new ListNode(0);
         dumy.next = head;
@@ -18,7 +17,7 @@ class Solution {
             cur = cur.next;
             count++;
         }
-
+        // reverse logic 
         while(count >= k){
             cur = prev.next;
             ListNode next = cur.next;
