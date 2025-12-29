@@ -23,7 +23,7 @@ class Leet_747{
         int[] arr = {3,6,1,0};
 
         Solution obj = new Solution();
-        int ans = obj.dominantIndex();
+        int ans = obj.dominantIndex(arr);
 
         System.out.println(ans);
     }

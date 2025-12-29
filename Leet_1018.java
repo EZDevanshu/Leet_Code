@@ -5,11 +5,11 @@ class Solution {
          
         List<Boolean> ans = new ArrayList<>();
 
-        int num = 0;
-        for (int val : ans) {
-            num = (num * 2 + val)
-            ans.add(n == 0);
-        }
+        // int num = 0;
+        // for (int val : ans) {
+        //     num = (num * 2 + val)
+        //     ans.add(n == 0);
+        // }
         return ans;
     }
 }

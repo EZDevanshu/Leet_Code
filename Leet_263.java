@@ -4,14 +4,14 @@ class Solution {
             return false;
         }
 
-        int nums [] {2 , 3, 5};
+        // int nums [] {2 , 3, 5};
 
          
-        for(num : nums){
-            while(n % num == 0){
-                n /= num;
-            }
-        }
+        // for(num : nums){
+        //     while(n % num == 0){
+        //         n /= num;
+        //     }
+        // }
         if(n == 1){
             return true;
         }
