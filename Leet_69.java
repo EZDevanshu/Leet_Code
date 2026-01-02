@@ -7,9 +7,9 @@ class Solution {
         while (s <= e) {
             int m = s + (e - s) / 2;
 
-            if ((long)m * m <= n) { // use long to avoid overflow
-                ans = m;       // store possible answer
-                s = m + 1;     // try for bigger root
+            if ((long)m * m <= n) { 
+                ans = m;      
+                s = m + 1;     
             } else {
                 e = m - 1;
             }
