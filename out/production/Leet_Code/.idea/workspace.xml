@@ -7,7 +7,6 @@
     <list default="true" id="2bcf5d57-2df4-4cfc-a4c0-207ec93c37d9" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/Leet_205.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Q1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,8 +40,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Leet_205 (1).executor": "Run",
-    "Application.Leet_205.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -103,7 +100,7 @@
       <updated>1771507646337</updated>
       <workItem from="1771507653326" duration="1979000" />
       <workItem from="1771571345858" duration="47000" />
-      <workItem from="1771591321734" duration="1607000" />
+      <workItem from="1771591321734" duration="1365000" />
     </task>
     <servers />
   </component>
