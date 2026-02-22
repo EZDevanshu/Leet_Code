@@ -10,7 +10,7 @@ class Solution {
         }
         for (int i = 0; i < ransomNote.length(); i++) {
             char ch = ransomNote.charAt(i);
-            if(arr1[ch - 'a'] == 0){
+            if (arr1[ch - 'a'] == 0) {
                 return false;
             }
             arr1[ch - 'a']--;
