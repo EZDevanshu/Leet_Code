@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bcf5d57-2df4-4cfc-a4c0-207ec93c37d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Leet_763.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2bcf5d57-2df4-4cfc-a4c0-207ec93c37d9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,6 +123,7 @@
       <workItem from="1771677067955" duration="1752000" />
       <workItem from="1771775081117" duration="64000" />
       <workItem from="1771852566174" duration="1703000" />
+      <workItem from="1772298918337" duration="292000" />
     </task>
     <servers />
   </component>
