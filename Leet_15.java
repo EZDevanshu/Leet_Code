@@ -18,7 +18,6 @@ class Solution {
 
             while(left < right){
 
-
                 if(nums[i] + nums[left] + nums[right] == 0){
                     result.add(Arrays.asList(nums[i] , nums[left] , nums[right]));
 
