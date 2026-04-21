@@ -1,5 +1,5 @@
 # Optimize approch
- 
+
 class Solution:
     def maxDistance(self, colors: List[int]) -> int:
         maxDist = 0
